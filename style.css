@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+
+h1 {
+  color: #3498db;
+}
+
+label {
+  display: block;
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+#dnaSequence {
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+#output {
+  margin-top: 20px;
+  text-align: left;
+}
+
+h2 {
+  color: #3498db;
+}
+
+p {
+  font-size: 16px;
+}
